@@ -1,2 +1,74 @@
-# MoodDrop
-MoodDrop est une app mobile où tu peux laisser des capsules virtuelles ou physiques visibles sur une carte 3D. Le contenu n’est accessible qu’en se rendant physiquement à l’endroit. Une expérience émotionnelle et géolocalisée unique.
+# 🟣 MoodDrop
+
+> *Laisse ton empreinte. Trouve l’émotion.*
+
+**MoodDrop** est une application mobile immersive permettant de déposer ou découvrir des **capsules émotionnelles** dans le monde réel.  
+Le contenu de chaque capsule n’est accessible **qu’en se rendant physiquement sur place**.
+
+---
+
+## ✨ Fonctionnalités
+
+- 📍 **Carte 3D interactive** avec capsules visibles dans le monde entier  
+- 🔒 **Contenu verrouillé par géolocalisation**  
+- 📦 **Capsules physiques** (objets réels avec code ou QR)  
+- 💬 **Capsules virtuelles** (texte, image, audio, vidéo)  
+- 🧭 **Exploration émotionnelle** via ton GPS
+
+---
+
+## 📱 Captures d’écran
+
+*(à venir)*  
+Ajoute ici tes mockups ou captures de l’interface de MoodDrop.
+
+---
+
+## 🛠️ Technologies prévues
+
+- **Frontend mobile** : Flutter / React Native  
+- **Carte 3D** : CesiumJS, Mapbox GL JS  
+- **Backend** : Firebase / Supabase  
+- **Géolocalisation** : GPS + géofencing (API native)  
+- **Stockage média** : Firebase Storage ou Cloudinary
+
+---
+
+## 📦 Structure du projet
+
+mooddrop/
+├── frontend/ # App mobile (Flutter ou React Native)
+├── backend/ # API / Auth / DB
+├── assets/ # Logos, icônes, images
+├── docs/ # Maquettes, charte graphique, specs
+└── README.md
+
+---
+
+## 🚧 Statut
+
+![Statut du projet](https://img.shields.io/badge/dynamic/json?color=5E17EB&label=Statut&query=$.development&url=https%3A%2F%2Fraw.githubusercontent.com%2Fflywithnael%2FMoodDrop%2Fmain%2Fstatus.json&style=for-the-badge)
+
+🛠️ En développement (design + prototypage)  
+📅 Première bêta prévue : *non définie*
+
+---
+
+## 💡 À propos
+
+Projet imaginé et développé par **Naël Moghir**.  
+Pour toute contribution, idée ou retour → **pull request bienvenue** !
+
+---
+
+## 📬 Contact
+
+- Discord : `@flywithnael`  
+- Mail : `translinkstudios@proton.me`  
+- Site : [à venir]
+
+---
+
+## ⚖️ Licence
+
+MIT — libre d'utilisation et modification avec mention de l’auteur.
