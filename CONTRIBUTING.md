@@ -1,4 +1,4 @@
-# Contribuer à MoodDrop
+# Contribuer à <img src="[https://cdn-icons-png.flaticon.com/512/7113/7113080.png](https://raw.githubusercontent.com/flywithnael/MoodDrop/main/MoodDrop/logomooddrop-origin-rectangle-nobg.png)" width="16" style="vertical-align: middle;" />
 
 Merci de ton intérêt ! Tu peux contribuer en :
 
