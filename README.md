@@ -1,5 +1,4 @@
 ![SSE Assistant](MoodDrop/mooddrop-textonly-nobg.png) 
-# 🟣 MoodDrop
 
 > *Laisse ton empreinte. Trouve l’émotion.*
 
