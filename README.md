@@ -7,6 +7,19 @@ Le contenu de chaque capsule n’est accessible **qu’en se rendant physiquemen
 
 ---
 
+## 📑 Sommaire
+
+- [✨ Fonctionnalités](#-fonctionnalités)
+- [📱 Captures d’écran](#-captures-décran)
+- [🛠️ Technologies prévues](#-technologies-prévues)
+- [📦 Structure du projet](#-structure-du-projet)
+- [🚧 Statut](#-statut)
+- [💡 À propos](#-à-propos)
+- [📬 Contact](#-contact)
+- [⚖️ Licence](#-licence)
+
+---
+
 ## ✨ Fonctionnalités
 
 - 📍 **Carte 3D interactive** avec capsules visibles dans le monde entier  
@@ -41,7 +54,6 @@ Le contenu de chaque capsule n’est accessible **qu’en se rendant physiquemen
 - ├── MoodDrop/ **Logos, icônes, images** ![Créé?](https://img.shields.io/badge/✅%20créé-36FF68)
 - ├── docs/ **Maquettes, charte graphique, specs** ![Créé?](https://img.shields.io/badge/❌%20non%20créé-FF364A)
 - └── README.md ![Créé?](https://img.shields.io/badge/✅%20créé-36FF68)
-
 
 ---
 
