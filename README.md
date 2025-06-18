@@ -1,4 +1,4 @@
-![SSE Assistant](MoodDrop/mooddrop-icon-nobg.png) ![SSE Assistant](MoodDrop/mooddrop-textonly-nobg.png) 
+![Logo](MoodDrop/logomooddrop-origin-rectangle-nobg.png) 
 
 > *Laisse ton empreinte. Trouve l’émotion.*
 
