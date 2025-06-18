@@ -75,3 +75,7 @@ Pour toute contribution, idée ou retour → **pull request bienvenue** !
 ## ⚖️ Licence
 
 MIT — libre d'utilisation et modification avec mention de l’auteur.
+
+---
+
+[![Made by flywithnael](https://img.shields.io/badge/Made%20with%20%F0%9F%92%9C%20by-flywithnael-5E17EB?style=for-the-badge)](https://github.com/flywithnael)
