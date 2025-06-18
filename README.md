@@ -36,11 +36,11 @@ Le contenu de chaque capsule n’est accessible **qu’en se rendant physiquemen
 ## 📦 Structure du projet
 
 -  mooddrop/
-- ├── frontend/ **App mobile (Flutter ou React Native)** ![Créé?](https://img.shields.io/badge/non%20créé-FF364A)
-- ├── backend/ **API / Auth / DB** ![Créé?](https://img.shields.io/badge/non%20créé-FF364A)
-- ├── MoodDrop/ **Logos, icônes, images* ![Créé?](https://img.shields.io/badge/créé-36FF68)
-- ├── docs/ **Maquettes, charte graphique, specs** ![Créé?](https://img.shields.io/badge/non%20créé-FF364A)
-- └── README.md ![Créé?](https://img.shields.io/badge/créé-36FF68)
+- ├── frontend/ **App mobile (Flutter ou React Native)** ![Créé?](https://img.shields.io/badge/❌non%20créé-FF364A)
+- ├── backend/ **API / Auth / DB** ![Créé?](https://img.shields.io/badge/non%20✅créé-FF364A)
+- ├── MoodDrop/ **Logos, icônes, images* ![Créé?](https://img.shields.io/badge/✅créé-36FF68)
+- ├── docs/ **Maquettes, charte graphique, specs** ![Créé?](https://img.shields.io/badge/❌non%20créé-FF364A)
+- └── README.md ![Créé?](https://img.shields.io/badge/✅créé-36FF68)
 
 ---
 
