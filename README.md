@@ -20,7 +20,6 @@ Le contenu de chaque capsule n’est accessible **qu’en se rendant physiquemen
 ## 📱 Captures d’écran
 
 *(à venir)*  
-Ajoute ici tes mockups ou captures de l’interface de MoodDrop.
 
 ---
 
