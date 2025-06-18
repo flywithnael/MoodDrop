@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MoodDrop</title>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Inter&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --violet: #5e17eb;
+      --turquoise: #00e0c6;
+      --nuit: #0a0e2a;
+      --blanc: #ffffff;
+      --gris: #f3f3f3;
+    }
+    body {
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+      background: linear-gradient(180deg, var(--nuit), #1a1c3c);
+      color: var(--blanc);
+      overflow-x: hidden;
+    }
+    header {
+      padding: 2rem;
+      text-align: center;
+      background: var(--nuit);
+    }
+    h1 {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 3rem;
+      color: var(--violet);
+      animation: glow 2s ease-in-out infinite alternate;
+    }
+    p.tagline {
+      font-size: 1.2rem;
+      color: var(--turquoise);
+      margin-top: -1rem;
+    }
+    @keyframes glow {
+      from { text-shadow: 0 0 5px var(--violet); }
+      to { text-shadow: 0 0 20px var(--turquoise); }
+    }
+    section.features {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      padding: 4rem 1rem;
+      gap: 2rem;
+    }
+    .card {
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 1rem;
+      padding: 2rem;
+      width: 300px;
+      text-align: center;
+      transition: transform 0.3s, box-shadow 0.3s;
+    }
+    .card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 10px 20px rgba(0, 224, 198, 0.2);
+    }
+    footer {
+      text-align: center;
+      padding: 2rem;
+      font-size: 0.9rem;
+      color: var(--gris);
+    }
+    .btn {
+      display: inline-block;
+      padding: 0.8rem 1.6rem;
+      margin-top: 1rem;
+      background: var(--turquoise);
+      color: var(--nuit);
+      border-radius: 100px;
+      font-weight: bold;
+      text-decoration: none;
+      transition: background 0.3s;
+    }
+    .btn:hover {
+      background: #00cbb2;
+    }
+    .fade-in {
+      opacity: 0;
+      transform: translateY(30px);
+      animation: fadeIn 1s ease-out forwards;
+    }
+    @keyframes fadeIn {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>MoodDrop</h1>
+    <p class="tagline">Laisse ton empreinte. Trouve l'émotion.</p>
+  </header>
+
+  <section class="features">
+    <div class="card fade-in" style="animation-delay: 0.2s">
+      <h2>📍 Capsules visibles sur carte</h2>
+      <p>Explore une carte 3D immersive avec des capsules déposées partout dans le monde.</p>
+    </div>
+    <div class="card fade-in" style="animation-delay: 0.4s">
+      <h2>🔒 Contenu verrouillé</h2>
+      <p>Le contenu des capsules ne peut être vu que si tu es physiquement sur place.</p>
+    </div>
+    <div class="card fade-in" style="animation-delay: 0.6s">
+      <h2>📦 Capsules physiques</h2>
+      <p>Laisse de vrais objets dans la réalité, protégés par code si tu veux.</p>
+    </div>
+    <div class="card fade-in" style="animation-delay: 0.8s">
+      <h2>🧠 Émotion & souvenir</h2>
+      <p>Chaque capsule est une trace émotionnelle, à découvrir en marchant dans le monde réel.</p>
+    </div>
+  </section>
+
+  <div style="text-align: center;">
+    <a href="#" class="btn fade-in" style="animation-delay: 1s">Découvrir l'application</a>
+  </div>
+
+  <footer>
+    &copy; 2025 MoodDrop — Développé avec &#10084; par Naël M.
+  </footer>
+</body>
+</html>
