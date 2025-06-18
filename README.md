@@ -46,7 +46,11 @@ mooddrop/
 
 ## 🚧 Statut
 
-![Statut du projet](https://img.shields.io/badge/dynamic/json?color=5E17EB&label=Statut&query=$.development&url=https%3A%2F%2Fraw.githubusercontent.com%2Fflywithnael%2FMoodDrop%2Fmain%2Fstatus.json&style=for-the-badge)
+![Statut](https://img.shields.io/badge/dynamic/json?color=5E17EB&label=Statut&query=$.development&url=https%3A%2F%2Fraw.githubusercontent.com%2Fflywithnael%2FMoodDrop%2Fmain%2Fstatus.json&style=for-the-badge)
+
+![Version](https://img.shields.io/badge/dynamic/json?color=00E0C6&label=Version&query=$.version&url=https%3A%2F%2Fraw.githubusercontent.com%2Fflywithnael%2FMoodDrop%2Fmain%2Fstatus.json&style=for-the-badge)
+
+![Dernière mise à jour](https://img.shields.io/badge/dynamic/json?color=gray&label=Derni%C3%A8re%20MAJ&query=$.lastUpdate&url=https%3A%2F%2Fraw.githubusercontent.com%2Fflywithnael%2FMoodDrop%2Fmain%2Fstatus.json&style=for-the-badge)
 
 🛠️ En développement (design + prototypage)  
 📅 Première bêta prévue : *non définie*
