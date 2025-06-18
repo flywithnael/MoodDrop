@@ -36,10 +36,10 @@ Le contenu de chaque capsule n’est accessible **qu’en se rendant physiquemen
 ## 📦 Structure du projet
 
 -  mooddrop/
-- ├── frontend/ # App mobile (Flutter ou React Native) 
-- ├── backend/ # API / Auth / DB 
-- ├── assets/ # Logos, icônes, images 
-- ├── docs/ # Maquettes, charte graphique, specs 
+- ├── frontend/ **App mobile (Flutter ou React Native)**
+- ├── backend/ **API / Auth / DB**
+- ├── assets/ **Logos, icônes, images**
+- ├── docs/ **Maquettes, charte graphique, specs**
 - └── README.md 
 
 ---
