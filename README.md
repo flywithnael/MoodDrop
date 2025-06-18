@@ -36,24 +36,21 @@ Le contenu de chaque capsule n’est accessible **qu’en se rendant physiquemen
 ## 📦 Structure du projet
 
 -  mooddrop/
-- ├── frontend/ **App mobile (Flutter ou React Native)**
-- ├── backend/ **API / Auth / DB**
-- ├── assets/ **Logos, icônes, images**
-- ├── docs/ **Maquettes, charte graphique, specs**
-- └── README.md 
+- ├── frontend/ **App mobile (Flutter ou React Native)**![Créé?](https://img.shields.io/badge/non%20créé-FF364A)
+- ├── backend/ **API / Auth / DB**![Créé?](https://img.shields.io/badge/non%20créé-FF364A)
+- ├── MoodDrop/ **Logos, icônes, images*![Créé?](https://img.shields.io/badge/créé-36FF68)
+- ├── docs/ **Maquettes, charte graphique, specs**![Créé?](https://img.shields.io/badge/non%20créé-FF364A)
+- └── README.md ![Créé?](https://img.shields.io/badge/créé-36FF68)
 
 ---
 
 ## 🚧 Statut
 
 ![Statut](https://img.shields.io/badge/dynamic/json?color=5E17EB&label=Statut&query=$.development&url=https%3A%2F%2Fraw.githubusercontent.com%2Fflywithnael%2FMoodDrop%2Fmain%2Fstatus.json&style=for-the-badge)
-
+--
 ![Version](https://img.shields.io/badge/dynamic/json?color=00E0C6&label=Version&query=$.version&url=https%3A%2F%2Fraw.githubusercontent.com%2Fflywithnael%2FMoodDrop%2Fmain%2Fstatus.json&style=for-the-badge)
-
+--
 ![Dernière mise à jour](https://img.shields.io/badge/dynamic/json?color=gray&label=Derni%C3%A8re%20MAJ&query=$.lastUpdate&url=https%3A%2F%2Fraw.githubusercontent.com%2Fflywithnael%2FMoodDrop%2Fmain%2Fstatus.json&style=for-the-badge)
-
-🛠️ En développement (design + prototypage)  
-📅 Première bêta prévue : *non définie*
 
 ---
 
