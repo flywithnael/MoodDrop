@@ -1,4 +1,4 @@
-![MIT](https://img.shields.io/badge/MIT-green?style=for-the-badge)
+![MIT](https://img.shields.io/badge/MIT-purple?style=for-the-badge)
 ![Logo](MoodDrop/logomooddrop-origin-rectangle-nobg.png) 
 
 > *Laisse ton empreinte. Trouve l’émotion.*
